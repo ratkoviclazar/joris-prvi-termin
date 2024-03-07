@@ -1,1 +1,2 @@
-"Neki tekst na master grani" 
+"Neki tekst dodat na grani master i na grani nova grana" 
+"Neki tekst dodat na grani master i na grani nova grana" 
